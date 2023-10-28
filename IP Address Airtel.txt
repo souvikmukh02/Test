@@ -1,0 +1,73 @@
+SSID:	SamsungA20
+Protocol:	Wi-Fi 4 (802.11n)
+Security type:	WPA2-Personal
+Network band:	2.4 GHz
+Network channel:	1
+Link speed (Receive/Transmit):	144/72 (Mbps)
+IPv6 address:	2402:3a80:6dd:771e:f4c7:5958:d136:8d2c
+Link-local IPv6 address:	fe80::81a2:4a77:96a3:988%15
+IPv4 address:	192.168.110.134
+IPv4 DNS servers:	192.168.110.220
+Manufacturer:	Qualcomm Atheros Communications Inc.
+Description:	Qualcomm Atheros AR9485 802.11b|g|n WiFi Adapter
+Driver version:	3.0.2.201
+Physical address (MAC):	20-16-D8-59-86-99
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+Name:	Ethernet
+Description:	Realtek PCIe FE Family Controller
+Physical address (MAC):	38:ea:a7:fc:97:82
+Status:	Not operational
+Maximum transmission unit:	1500
+IPv4 address:	169.254.80.67/16
+IPv6 address:	fe80::8892:89:774a:9e99%4/64
+DNS servers:	fec0:0:0:ffff::1%1, fec0:0:0:ffff::2%1, fec0:0:0:ffff::3%1
+Connectivity (IPv4/IPv6):	Disconnected
+Name:	Local Area Connection* 1
+Description:	Microsoft Wi-Fi Direct Virtual Adapter
+Physical address (MAC):	12:16:d8:59:86:99
+Status:	Not operational
+Maximum transmission unit:	1500
+IPv4 address:	169.254.183.71/16
+IPv6 address:	fe80::ad36:1304:9d25:df35%19/64
+DNS servers:	fec0:0:0:ffff::1%1, fec0:0:0:ffff::2%1, fec0:0:0:ffff::3%1
+Connectivity (IPv4/IPv6):	Disconnected
+Name:	Local Area Connection* 2
+Description:	Microsoft Wi-Fi Direct Virtual Adapter #2
+Physical address (MAC):	22:16:d8:59:86:99
+Status:	Not operational
+Maximum transmission unit:	1500
+IPv4 address:	169.254.61.154/16
+IPv6 address:	fe80::f0a3:4b1e:edcc:e3b5%12/64
+DNS servers:	fec0:0:0:ffff::1%1, fec0:0:0:ffff::2%1, fec0:0:0:ffff::3%1
+Connectivity (IPv4/IPv6):	Disconnected
+Name:	Wi-Fi
+Description:	Qualcomm Atheros AR9485 802.11b|g|n WiFi Adapter
+Physical address (MAC):	20:16:d8:59:86:99
+Status:	Operational
+Maximum transmission unit:	1500
+Link speed (Receive/Transmit):	144/72 (Mbps)
+DHCP enabled:	Yes
+DHCP servers:	192.168.120.220
+DHCP lease obtained:	‎27 ‎October ‎2023 08:57:59
+DHCP lease expires:	‎27 ‎October ‎2023 09:57:58
+IPv4 address:	192.168.120.134/24
+IPv6 address:	2402:3a80:6dd:771e:f4c7:5958:d136:8d2c/64, 2402:3a80:6dd:771e:1c75:b86e:4fa0:6365/128, fe80::81a2:4a77:96a3:988%15/64
+Default gateway:	fe80::b079:91ff:fe08:f59c%15, 192.168.120.220
+DNS servers:	192.168.120.220, 2402:3a80:6dd:771e::cd
+Network name:	SamsungA20
+Network category:	Public
+Connectivity (IPv4/IPv6):	Connected to Internet
+Name:	Bluetooth Network Connection
+Description:	Bluetooth Device (Personal Area Network)
+Physical address (MAC):	20:16:d8:59:ed:eb
+Status:	Not Present
+Maximum transmission unit:	0
+Connectivity (IPv4/IPv6):	Disconnected
+Name:	Bluetooth Network Connection 2
+Description:	Bluetooth Device (Personal Area Network) #2
+Physical address (MAC):	e8:48:b8:c8:20:00
+Status:	Not operational
+Maximum transmission unit:	1500
+Connectivity (IPv4/IPv6):	Disconnected
