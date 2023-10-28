@@ -1,0 +1,37 @@
+GIT 2.42
+Option:
+install select
+VS code editor default editor
+Use bundle
+
+
+Git Init
+1. Git intialization in git bash
+
+Git Pull
+2.pull new changes
+
+Git Push
+3. Make changes reflect in repository
+
+git online profile token
+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
+
+
+Installing
+1. cd "<folder path>"
+2. git init -b main
+3. git add .
+4. git status
+5. git config --global user.name "souvikmukh02"
+6. git config --global user.email "souvk.mukh02@gmail.com"
+7. git remote add origin <path code to repository>
+8. git commit -m "<message>"
+9. git branch
+10. git push -u origin main
+if error
+10. git pull --rebase origin main
+11. git push -u origin main
+
+if anything with branch problem then delete the .git folder hidden from the upload folder
+
